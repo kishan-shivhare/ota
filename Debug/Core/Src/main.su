@@ -1,0 +1,14 @@
+../Core/Src/main.c:90:5:main	24	static,ignoring_inline_asm
+../Core/Src/main.c:152:6:SystemClock_Config	72	static
+../Core/Src/main.c:191:13:MX_CAN_Init	8	static
+../Core/Src/main.c:228:13:MX_TIM2_Init	48	static
+../Core/Src/main.c:277:13:MX_USART2_UART_Init	8	static
+../Core/Src/main.c:310:13:MX_GPIO_Init	40	static
+../Core/Src/main.c:336:6:can_transmitSingleByte	16	static
+../Core/Src/main.c:356:6:Init_PWM	16	static
+../Core/Src/main.c:373:6:CanPid	112	static
+../Core/Src/main.c:404:5:MAP	24	static
+../Core/Src/main.c:409:5:Constrain	24	static
+../Core/Src/main.c:420:6:SerialWrite	24	static
+../Core/Src/main.c:435:6:CAN_SetFilter	64	static
+../Core/Src/main.c:467:6:Error_Handler	4	static,ignoring_inline_asm
